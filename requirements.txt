@@ -1,0 +1,3 @@
+tensorflow==2.11.0   # Adjust based on your TensorFlow version
+opencv-python-headless==4.5.3   # Use headless version for Raspberry Pi to save resources
+numpy==1.21.6   # Ensure compatibility with TensorFlow Lite
